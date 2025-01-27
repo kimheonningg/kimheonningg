@@ -4,8 +4,9 @@
 
 ### About Me 👑
 
-I'm an Electrical and Computer Engineering student based in Seoul, Republic of Korea.  
-I have a keen interest in both frontend and backend development, constantly exploring new technologies and enhancing my skills.
+I am an Electrical and Computer Engineering student based in Seoul, Republic of Korea.  
+I enjoy programming across diverse domains, including websites, mobile applications, software solutions, artificial intelligence, games, and so on.
+I am always eager to tackle new challenges, solve problems creatively, and explore new technologies to enhance my skills.
 
 ### Education 📚
 
