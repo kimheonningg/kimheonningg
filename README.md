@@ -9,7 +9,7 @@
 
 ### About Me 👑
 
-I am an Electrical and Computer Engineering student based in Seoul, Republic of Korea.  
+I am an Electrical and Computer Engineering student based in Seoul, Republic of Korea. 🇰🇷
 I enjoy programming across diverse domains, including websites, mobile applications, software solutions, artificial intelligence, games, and so on.
 I am always eager to tackle new challenges, solve problems creatively, and explore new technologies to enhance my skills.
 
@@ -22,5 +22,4 @@ I am always eager to tackle new challenges, solve problems creatively, and explo
 
 - Email: hannahkhw@snu.ac.kr
 - [LinkedIn](https://www.linkedin.com/in/kimheonningg/)
-- [Github](https://github.com/kimheonningg)
 - [Instagram](https://www.instagram.com/heonningg_/)
