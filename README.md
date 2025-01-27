@@ -1,6 +1,6 @@
 ## Welcome to My Github 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimheonningg&layout=compact&theme=buefy&langs_count=10"/> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=kimheonningg&theme=buefy" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimheonningg&layout=compact&theme=buefy&langs_count=10"/><img align="center" src="https://github-readme-stats.vercel.app/api?username=kimheonningg&show_icons=true&include_all_commits=true&theme=buefy" />
 
 ### About Me 👑
 
