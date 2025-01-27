@@ -1,6 +1,6 @@
 ## Welcome to My Github 👋
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kimheonningg&langs_count=10)](https://github.com/kimheonningg)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimheonningg&langs_count=10" />
 
 ### About Me 👑
 
