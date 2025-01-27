@@ -2,7 +2,7 @@
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimheonningg&layout=compact&theme=buefy&langs_count=10&hide_border=true"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kimheonningg&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide_rank=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kimheonningg&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide_rank=true&hide=stars&show=prs_merged,prs_merged_percentage" />
 </div>
 
 ### About Me 👑
