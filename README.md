@@ -22,4 +22,3 @@ I am always eager to tackle new challenges, solve problems creatively, and explo
 
 - Email: hannahkhw@snu.ac.kr
 - [LinkedIn](https://www.linkedin.com/in/kimheonningg/)
-- [Instagram](https://www.instagram.com/heonningg_/)
