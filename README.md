@@ -10,7 +10,7 @@
 ### Education 📚
 
 - Korean Minjok Leadership Academy ('18 ~ '21)
-- Seoul National University ('21 ~ Present)
+- Seoul National University ('21 ~ '26)
 
 ### Connect with Me 💬
 
